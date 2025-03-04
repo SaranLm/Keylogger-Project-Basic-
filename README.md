@@ -24,9 +24,11 @@ command :
 
 
 🔹 How to Generate a Gmail App Password (Step-by-Step)
+
 Go to Google Account Security Page
 
 Open Google My Account.
+
 Enable 2-Step Verification (if not enabled already)
 
 Scroll down to "Signing in to Google" and enable 2-Step Verification.
@@ -34,10 +36,13 @@ Generate an App Password
 
 After enabling 2FA, go back to the Security Page.
 Scroll down to App Passwords and click on it.
+
 Select "Mail" as the app and "Windows Computer" as the device.
 Click Generate.
+
 Copy the generated 16-character App Password.
 Use the App Password in Your Code
+
 
 Replace your_email_password in the script with your new App Password.
 
