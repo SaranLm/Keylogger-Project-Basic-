@@ -19,5 +19,5 @@ A Keylogger is a software tool that records keystrokes made by a user on a keybo
 
 command :
 
-=> python3 <filename>.py
+=> python3 keylogger.py
 
